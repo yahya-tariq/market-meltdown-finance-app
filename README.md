@@ -13,7 +13,7 @@ A financial stress-test simulator that calculates how long your investments woul
 - Financial resilience rating system
 
 ## 🚀 Live Deployment
-[Access the live app here](YOUR_STREAMLIT_URL)
+[Access the live app here](https://market-meltdown-finance-app-lswgq9kavgmnuojvocxmrj.streamlit.app/)
 
 ## 📊 Sample Inputs
 - Try These Test Case:
